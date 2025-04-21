@@ -5,7 +5,7 @@ Atualmente tenho 22 anos e trabalho na área da Tecnologia. Me interesso pelo ap
 # Atualmente
 
 - 🧑🏻‍🎓 Cursando Desenvolvimento Full-Stack
-- 🌱 Estudando sobre interação do back-end em projetos.
+- 🌱 Estudando sobre PHP & Laravel 12.
 - 🧠 Aprimorando conhecimentos sobre automações e manipulação de dados com Python.
 
 # Linguagens e Ferramentas
