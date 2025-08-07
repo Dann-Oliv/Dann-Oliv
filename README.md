@@ -1,32 +1,57 @@
-# Olá !👋
+<h1 align="center">Olá 👋, Seja bem-vindo(a)!</h1>
+<p align="center">Programador Backend | Futuro Engenheiro de Dados</p>
 
-Meu nome é Danilo, trabalho na área da Tecnologia como programador back-end. Me interesso pelo aprendizado contínuo de novas linguagens de programação e ferramentas de desenvolvimento, e atualmente estou focado em aprimorar minhas habilidades em automações e manipulação de dados. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
+<table>
+  <tr>
+    <td width="60%">
+      
+<h3>👽 Sobre mim</h3>
 
-## Atualmente
+Meu nome é Danilo, trabalho na área da tecnologia como programador back-end, me interesso pelo aprendizado contínuo de novas linguagens e ferramentas de desenvolvimento de software, e atualmente estou focado em estudar processos de ETL e automações. Meu obejtivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
 
-- 🧑🏻‍🎓 Cursando Desenvolvimento Full-Stack
-- 🌱 Estudando sobre Django.
-- 🧠 Aprimorando conhecimentos sobre automações e manipulação de dados com Python.
+</td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjZ4bWNjZWRndmt0aTk2a3NvdnR0bGJ6azI0Njh6OWZ5a3l4cTY5ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="100%">
+    </td>
+  </tr>
+</table>
 
-### Contato
+### 💼 Atualmente
 
+🧑‍🎓 Cursando **Desenvolvimento Fullstack**.  
+📖 Estudando sobre algoritmos e modelagem de dados.  
+🎯 Aprimorando conhecimentos em automações e manipulação de dados com Python.  
+
+---
+
+### 🧠 Tech Stack
+
+<div align="left">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-00599C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
+
+---
+
+### 📬 Contato
+<div align="left">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-oliveira-717246329)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dann.oliv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnn.oliv@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dann.oliv)
 
-### Linguagens e Ferramentas
+</div>
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+---
