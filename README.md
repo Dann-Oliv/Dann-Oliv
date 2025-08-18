@@ -1,6 +1,6 @@
 <h3>👽 Sobre mim</h3>
 
-Meu nome é Danilo, trabalho na área da tecnologia como programador back-end, me interesso pelo aprendizado contínuo de novas linguagens e ferramentas de desenvolvimento de software, e atualmente estou focado em estudar processos de ETL e automações. Meu obejtivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
+Olá, meu nome é Danilo e trabalho na área da tecnologia como programador back-end, me interesso pelo aprendizado contínuo de novas linguagens e ferramentas de desenvolvimento de software, e atualmente estou focado em estudar processos de ETL e automações. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
 
 
 ### 💼 Atualmente
