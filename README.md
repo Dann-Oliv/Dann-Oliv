@@ -1,20 +1,7 @@
-<h1 align="center">Olá 👋, Seja bem-vindo(a)!</h1>
-<p align="center">Programador Backend | Futuro Engenheiro de Dados</p>
-
-<table>
-  <tr>
-    <td width="60%">
-      
 <h3>👽 Sobre mim</h3>
 
 Meu nome é Danilo, trabalho na área da tecnologia como programador back-end, me interesso pelo aprendizado contínuo de novas linguagens e ferramentas de desenvolvimento de software, e atualmente estou focado em estudar processos de ETL e automações. Meu obejtivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
 
-</td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjZ4bWNjZWRndmt0aTk2a3NvdnR0bGJ6azI0Njh6OWZ5a3l4cTY5ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="100%">
-    </td>
-  </tr>
-</table>
 
 ### 💼 Atualmente
 
@@ -24,7 +11,7 @@ Meu nome é Danilo, trabalho na área da tecnologia como programador back-end, m
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Linguagens e Ferramentas
 
 <div align="left">
   
