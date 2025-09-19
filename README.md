@@ -6,7 +6,7 @@ Olá, meu nome é Danilo e trabalho na área da tecnologia como programador back
 ### 💼 Atualmente
 
 🧑‍🎓 Cursando **Desenvolvimento Fullstack**. </br>
-📖 Estudando sobre Apache Airflow e DBT. </br>
+📖 Estudando sobre Modelagem de dados. </br>
 🎯 Aprimorando conhecimentos em automações e manipulação de dados com Python.
 
 ---
