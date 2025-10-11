@@ -1,6 +1,6 @@
 <h3>👽 Sobre mim</h3>
 
-Olá, meu nome é Danilo e trabalho na área da tecnologia como programador back-end, e atualmente estou focado em desenvolver processos de ETL e automações. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
+Olá, meu nome é Danilo e trabalho como programador back-end, e atualmente estou focado em desenvolver processos de ETL e automações. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
 
 
 ### 💼 Atualmente
@@ -18,6 +18,7 @@ Olá, meu nome é Danilo e trabalho na área da tecnologia como programador back
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF0000?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
