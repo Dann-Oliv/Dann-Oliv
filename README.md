@@ -4,7 +4,7 @@
 
 Olá, meu nome é Danilo e trabalho como programador back-end, e atualmente estou focado em desenvolver pipelines (ETL) e automações. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
 
-#### 💼 Atualmente
+### 💼 Atualmente:
 
 🧑‍🎓 Cursando **Desenvolvimento Fullstack**. </br>
 📖 Estudando sobre Modelagem de dados. </br>
@@ -29,11 +29,3 @@ Olá, meu nome é Danilo e trabalho como programador back-end, e atualmente esto
   <br/>
 
 ---
-
-### 📊 Estatísticas
-
-
-<div align="center"  style="display:flex;justify-content:space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dann-Oliv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dann-Oliv&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
