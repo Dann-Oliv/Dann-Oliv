@@ -1,8 +1,8 @@
 # 👽 Danilo Oliveira
 
-**`Backend Developer`**
+**`Backend Developer | Python · APIs · ETL · Data Engineering`**
 
-Olá, meu nome é Danilo e trabalho como programador back-end, e atualmente estou focado em desenvolver pipelines (ETL) e automações. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
+Desenvolvedor Backend com foco em Python e pipelines de dados (ETL/ELT), automação de processos e integrações entre sistemas.
 
 ### 💼 Atualmente:
 
