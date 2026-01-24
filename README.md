@@ -6,15 +6,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Backend com foco em Python e pipelines de dados (ETL/ELT), automação de processos e manipulação de dados.</p>
-
-###
-
-<h2 align="left">Atualmente</h2>
-
-###
-
-<p align="left">🧑‍🎓 Cursando Desenvolvimento Fullstack.<br>📖 Estudando sobre Modelagem de dados.<br>🎯 Aprimorando conhecimentos em automações e manipulação de dados com Python.</p>
+<p align="left">Desenvolvedor Backend com foco em Python e Engenharia de Dados, atuando no desenvolvimento de pipelines de dados (ETL/ELT), automação de processos, APIs e soluções orientadas a dados. Possuo experiência na manipulação, transformação e análise de dados, com atenção à escalabilidade, desempenho e boas práticas de engenharia de software. </p>
 
 ###
 
@@ -44,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+
 </div>
 
 ###
