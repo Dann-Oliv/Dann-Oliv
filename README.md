@@ -1,5 +1,3 @@
-<img src="assets/banner.png" alt="Danilo Oliveira – Backend Developer | Data Engineer" width="100%" />
-
 ## About me
 
 Backend developer and data engineer focused on building **robust data pipelines**, **intelligent automations**, and **high-performance APIs**. I turn raw data into actionable value — from ingestion to insight.
